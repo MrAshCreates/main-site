@@ -38,7 +38,7 @@ Thank you for being a part of this journey with me. Stay tuned for more exciting
 
 ### Next recommended read
 
-- [Read the Arch Linux Guide](../../docs/Linux/archguide)
+- [Read the Arch Linux Guide](/docs/Linux/archguide)
 
 ### Last Updated: Jan 18th, 2024
 

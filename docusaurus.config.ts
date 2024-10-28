@@ -26,7 +26,9 @@ const config: Config = {
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.ts',
+        },
         blog: {
           blogTitle: 'Asher\'s Blog',
           blogDescription: 'The best place to read blogs from Asher',
@@ -57,11 +59,19 @@ const config: Config = {
         src: 'https://github.com/mrashcreates.png',
       },
       items: [
-        { to: '/blog/tags', label: 'Sort by Tags', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'left' },
+
         {
           href: 'https://github.com/MrAshCreates/blog-site',
           label: 'GitHub',
           position: 'right',
+        },
+
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Guides',
         },
         
       ],
@@ -69,6 +79,19 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Guides',
+              to: '/docs/category/linux-guides',
+            },
+            {
+              label: 'Sort Guides by tags',
+              to: '/docs/tags',
+            },
+          ],
+        },
         {
           title: 'Social',
           items: [
@@ -90,11 +113,15 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Sort Blogs by their tags',
-              to: '/blog/tags/',
+              label: 'Sort Blogs by tags',
+              to: 'blog/tags/',
             },
             {
-              label: 'Asher\'s Test Site',
+              label: 'Blog',
+              to: '/blog',
+            },
+            {
+              label: 'Asher\'s Main Site',
               href: 'https://mrashcreates.xyz',
             },
             {

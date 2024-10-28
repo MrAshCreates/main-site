@@ -21,6 +21,6 @@ So in the `firstblog` I went into a little detail on the idea of college and whe
 
 ### Next recommended read
 
-- [Read the Arch Linux Guide](../2023-10-19/archguide.mdx)
+- [Read the Arch Linux Guide](/docs/Linux/archguide)
 
 ### Last Updated: Oct 30th, 2023
