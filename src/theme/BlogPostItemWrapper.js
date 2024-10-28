@@ -12,8 +12,8 @@ export default function BlogPostItemWrapper(props) {
                 repoId="R_kgDONG2VFQ"            // Replace with your repo ID
                 category="General"               // Discussion category name
                 categoryId="DIC_kwDONG2VFc4CjwQ7" // Replace with your category ID
-                mapping="title"
-                strict="1"
+                mapping="pathname"
+                strict="0"
                 reactionsEnabled="1"
                 emitMetadata="0"
                 inputPosition="bottom"
