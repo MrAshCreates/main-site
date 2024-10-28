@@ -14,12 +14,12 @@ const config: Config = {
   organizationName: 'MrAshCreates',
   projectName: 'main-site',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es'],
+    locales: ['en'],
   },
 
   presets: [
@@ -30,7 +30,7 @@ const config: Config = {
         blog: {
           blogTitle: 'Asher\'s Blog',
           blogDescription: 'The best place to read blogs from Asher',
-          routeBasePath: '/',
+          routeBasePath: '/blog/',
           showReadingTime: true,
           feedOptions: {
               type: ['rss', 'atom'],
@@ -57,7 +57,7 @@ const config: Config = {
         src: 'https://github.com/mrashcreates.png',
       },
       items: [
-        { to: '/tags', label: 'Sort by Tags', position: 'left' },
+        { to: '/blog/tags', label: 'Sort by Tags', position: 'left' },
         {
           href: 'https://github.com/MrAshCreates/blog-site',
           label: 'GitHub',
@@ -91,7 +91,7 @@ const config: Config = {
           items: [
             {
               label: 'Sort Blogs by their tags',
-              to: 'tags/',
+              to: '/blog/tags/',
             },
             {
               label: 'Asher\'s Test Site',

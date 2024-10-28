@@ -3,7 +3,7 @@ slug: firstblog
 title: My First Blog
 description: Everything I have been up too summed up into a nice blog
 authors: [asher]
-tags: [blog-updates, getting-real, website-update, life-update]
+tags: [updates, getting-real, website-update, life-update]
 ---
 
 ## From High School to Neumont University
@@ -26,4 +26,6 @@ Have any questions or topics you'd like me to explore? Feel free to leave a comm
 
 ### Last Updated: Oct 20th, 2023
 
-update 1.0.3 : this will be remade to fit what I wanted to say verses what I needed to get out.
+update 1.0.4 : this will be remade to fit what I wanted to say versus what I needed to get out.
+
+

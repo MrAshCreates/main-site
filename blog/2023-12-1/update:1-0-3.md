@@ -2,7 +2,7 @@
 slug: update:1-0-3
 title: 'Blog Update: 1.0.3'
 authors: [asher]
-tags: [blog-updates, getting-real, website-update, life-update]
+tags: [updates, getting-real, website-update, life-update]
 ---
 
 ![update banner](/img/update.jpg)
