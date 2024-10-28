@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_site=self.webpackChunkmain_site||[]).push([[5434],{6119:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/page/2","blogDescription":"The best place to read blogs from Asher","blogTitle":"Asher\'s Blog"}}')}}]);

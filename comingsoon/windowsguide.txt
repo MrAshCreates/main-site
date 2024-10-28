@@ -1,0 +1,17 @@
+---
+slug: windowsguide
+title: 'Windows 10/11 Guide'
+authors: [asher, arthur]
+tags: [Windows, Guide, Tutorial]
+---
+
+## Coming Soon
+
+This article is brought to you by Asher and Author
+
+This article will guide you in the process of using and installing the Windows.
+It will also help you increase the speed of it by removing bloat using [Ameliorated](https://ameliorated.io/)
+
+### Last Updated: Oct 20th, 2023
+
+- update 1.0.7 : The release of Arthur's Side of this article
