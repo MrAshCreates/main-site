@@ -1,6 +1,6 @@
 ---
 slug: verizon-rsa-cs
-title: 'Verizon Retail Sales Associate Cheat Sheet'
+title: 'Verizon Retail Cheat Sheet'
 authors: [asher, ai]
 tags: [verizon]
 ---
