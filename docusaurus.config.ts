@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Your favorite site to get the latest from Asher',
   favicon: 'img/favicon.ico',
 
-  url: 'https://asherewinstead.dev',
+  url: 'https://asherewinstead.dev/',
 
   baseUrl: '/',
 
@@ -94,7 +94,7 @@ const config: Config = {
               to: 'tags/',
             },
             {
-              label: 'Asher\'s Main Site',
+              label: 'Asher\'s Test Site',
               href: 'https://mrashcreates.xyz',
             },
             {

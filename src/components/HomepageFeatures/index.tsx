@@ -10,34 +10,37 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Original blogs',
+    Svg: require('@site/static/img/blog.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Read original blogs on topics I'm interested in.
+      I blog not only about my life but also the trying out random tech I have interest in.
+      Many other subjects get blogged about like my recommendations, science, tech, books, and plenty more!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Guides to life',
+    Svg: require('@site/static/img/laptop-open-icon.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Life can get hard, and sometimes you need help.
+      I have many guides on my site to many tech related things.
+      Tech is my life and it should be yours too!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'I use Arch Linux',
+    Svg: require('@site/static/img/arch-linux.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      I am an active advocate for the linux operating system.
+      Not only do I run Arch Linux as a daily driver but this site also runs off an Arch Linux server.
+      You could also be using Linux, open my Arch Linux Guide and get started!
       </>
-    ),
+      ),
   },
 ];
 
