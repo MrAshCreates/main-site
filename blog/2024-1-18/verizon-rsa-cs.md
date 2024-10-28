@@ -5,84 +5,9 @@ authors: [asher, ai]
 tags: [verizon]
 ---
 
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Company Overview](#company-overview)
-  - [Company History](#company-history)
-  - [Mission and Vision](#mission-and-vision)
-  - [Core Values](#core-values)
-  - [Corporate Structure](#corporate-structure)
-- [Verizon's Strengths and Weaknesses](#verizons-strengths-and-weaknesses)
-  - [Strengths](#strengths)
-  - [Weaknesses](#weaknesses)
-  - [Opportunities](#opportunities)
-  - [Threats](#threats)
-- [Verizon Products and Services](#verizon-products-and-services)
-  - [Mobile Plans](#mobile-plans)
-    - [Unlimited Plans](#unlimited-plans)
-    - [Shared Data Plans](#shared-data-plans)
-    - [Prepaid Plans](#prepaid-plans)
-    - [Business Plans](#business-plans)
-    - [Add-Ons and Features](#add-ons-and-features)
-  - [Home Internet Services](#home-internet-services)
-    - [Verizon Fios](#verizon-fios)
-    - [5G Home Internet](#5g-home-internet)
-    - [LTE Home Internet](#lte-home-internet)
-  - [Devices and Accessories](#devices-and-accessories)
-    - [Smartphones](#smartphones)
-    - [Tablets](#tablets)
-    - [Wearables](#wearables)
-    - [Smart Home Devices](#smart-home-devices)
-    - [Accessories](#accessories)
-  - [Business Solutions](#business-solutions)
-- [Detailed Pros and Cons of Verizon's Offerings](#detailed-pros-and-cons-of-verizons-offerings)
-  - [Mobile Plans Pros and Cons](#mobile-plans-pros-and-cons)
-  - [Home Internet Pros and Cons](#home-internet-pros-and-cons)
-  - [Device Pros and Cons](#device-pros-and-cons)
-- [Top-Selling Products and Their Target Customers](#top-selling-products-and-their-target-customers)
-  - [Apple Products](#apple-products)
-  - [Samsung Products](#samsung-products)
-  - [Google Products](#google-products)
-  - [Other Popular Devices](#other-popular-devices)
-- [Sales Strategies and Techniques](#sales-strategies-and-techniques)
-  - [Understanding the Sales Process](#understanding-the-sales-process)
-  - [Initiating Customer Interactions](#initiating-customer-interactions)
-  - [Building Rapport](#building-rapport)
-  - [Conducting a Needs Assessment](#conducting-a-needs-assessment)
-  - [Effective Questioning Techniques](#effective-questioning-techniques)
-  - [Active Listening Skills](#active-listening-skills)
-  - [Product Presentation and Demonstration](#product-presentation-and-demonstration)
-  - [Handling Objections](#handling-objections)
-  - [Closing the Sale](#closing-the-sale)
-  - [Post-Sale Follow-Up](#post-sale-follow-up)
-  - [Upselling and Cross-Selling Techniques](#upselling-and-cross-selling-techniques)
-- [Customer Service Excellence](#customer-service-excellence)
-  - [Customer Service Principles](#customer-service-principles)
-  - [Dealing with Difficult Customers](#dealing-with-difficult-customers)
-  - [Retention Strategies](#retention-strategies)
-- [Comparing Verizon to Competitors](#comparing-verizon-to-competitors)
-  - [Verizon vs. AT&T](#verizon-vs-att)
-  - [Verizon vs. T-Mobile](#verizon-vs-t-mobile)
-  - [Verizon vs. Other Carriers](#verizon-vs-other-carriers)
-  - [What Makes Verizon Better](#what-makes-verizon-better)
-  - [Areas Where Competitors Excel](#areas-where-competitors-excel)
-- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-- [Additional Resources for Sales Associates](#additional-resources-for-sales-associates)
-  - [Training and Development](#training-and-development)
-  - [Tools and Applications](#tools-and-applications)
-  - [Policies and Procedures](#policies-and-procedures)
-- [Tips for Success in Your Role](#tips-for-success-in-your-role)
-- [Appendix](#appendix)
-  - [Glossary of Terms](#glossary-of-terms)
-  - [Contact Information](#contact-information)
-
----
-
 ## Introduction
 
-Welcome to the Verizon Retail Sales Associate Comprehensive Cheat Sheet. This guide is designed to equip you with in-depth knowledge of Verizon's products, services, sales strategies, and customer service principles. By mastering this information, you'll be able to confidently address customer inquiries, compare Verizon's offerings with competitors, and excel in your role.
+Welcome to the Verizon Retail Sales Associate Cheat Sheet. This guide is designed to provide you with in-depth knowledge of Verizon's products, services, sales strategies, and competitive landscape. By mastering this information, you'll be equipped to confidently address customer inquiries, compare Verizon's offerings with competitors, and excel in your role.
 
 ---
 
@@ -114,7 +39,7 @@ Verizon Communications Inc. was established on June 30, 2000, following the merg
 
 - **Verizon Consumer Group**: Focuses on consumer wireless and wireline services.
 - **Verizon Business Group**: Provides services to businesses and government entities.
-- **Verizon Media Group**: (Now Verizon Media is acquired by Apollo Global Management and rebranded as Yahoo Inc.)
+- **Verizon Media Group**: (Now rebranded as Yahoo Inc. after acquisition by Apollo Global Management.)
 
 ---
 
@@ -124,8 +49,8 @@ Verizon Communications Inc. was established on June 30, 2000, following the merg
 
 1. **Network Reliability**
 
-   - **Coverage**: Verizon's network covers 99% of the U.S. population.
-   - **Quality**: Consistently ranked #1 in network performance by independent studies (e.g., RootMetrics, J.D. Power).
+   - **Coverage**: Verizon's network covers over 99% of the U.S. population.
+   - **Quality**: Consistently ranked #1 in network performance by independent studies like RootMetrics and J.D. Power.
    - **Technology Leadership**: Early adopter and leader in 5G deployment, including 5G Ultra Wideband.
 
 2. **Strong Brand Recognition**
@@ -138,7 +63,7 @@ Verizon Communications Inc. was established on June 30, 2000, following the merg
 
    - **Range**: Offers mobile, internet, TV, and business solutions.
    - **Innovation**: Continual investment in new technologies and services.
-   - **Partnerships**: Collaborations with leading technology companies (e.g., Apple, Samsung, Google).
+   - **Partnerships**: Collaborations with leading technology companies like Apple, Samsung, and Google.
 
 4. **Customer Service Excellence**
 
@@ -177,7 +102,7 @@ Verizon Communications Inc. was established on June 30, 2000, following the merg
 5. **Device Compatibility Restrictions**
 
    - **Locked Devices**: Some devices are network-locked, limiting flexibility.
-   - **Compatibility Issues**: Not all devices work seamlessly on Verizon's CDMA and LTE networks.
+   - **Compatibility Issues**: Not all devices work seamlessly on Verizon's network.
 
 ### Opportunities
 
@@ -247,126 +172,78 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
      - No premium data or mobile hotspot included.
    - **Ideal For**: Budget-conscious customers needing unlimited data without extra features.
 
-2. **5G Start**
-
-   - **Price**: Starting at $70/month for one line.
-   - **Features**:
-     - Unlimited 5G Nationwide data.
-     - 5G access included.
-     - No mobile hotspot data.
-   - **Pros**:
-     - Access to 5G network.
-   - **Cons**:
-     - No mobile hotspot or premium data.
-   - **Ideal For**: Users wanting basic unlimited data with 5G access.
-
-3. **5G Play More**
+2. **Unlimited Plus**
 
    - **Price**: Starting at $80/month for one line.
    - **Features**:
      - Unlimited 5G Nationwide and 5G Ultra Wideband data.
-     - 25 GB premium mobile hotspot data.
-     - Includes Disney+, Hulu, ESPN+ streaming services.
-     - Apple Arcade or Google Play Pass included.
+     - 30 GB premium mobile hotspot data.
+     - Unlimited premium data access.
+     - 720p HD video streaming.
    - **Pros**:
-     - Entertainment perks add value.
-     - Premium data and hotspot allowance.
+     - High-speed data with priority access.
+     - Generous hotspot allowance.
    - **Cons**:
      - Higher cost compared to basic plans.
-   - **Ideal For**: Entertainment enthusiasts and moderate data users who value streaming services.
+   - **Ideal For**: Users who need more data and hotspot capabilities.
 
-4. **5G Do More**
-
-   - **Price**: Starting at $80/month for one line.
-   - **Features**:
-     - Unlimited 5G Nationwide and 5G Ultra Wideband data.
-     - 50 GB premium mobile hotspot data.
-     - 600 GB Verizon Cloud storage.
-     - 50% off connected device plans (tablets, smartwatches).
-   - **Pros**:
-     - Extra cloud storage.
-     - Discounts on connected devices.
-   - **Cons**:
-     - No entertainment perks included.
-   - **Ideal For**: Professionals needing more data and cloud services.
-
-5. **5G Get More**
+3. **Unlimited Ultimate**
 
    - **Price**: Starting at $90/month for one line.
    - **Features**:
      - Unlimited premium 5G Nationwide and 5G Ultra Wideband data.
-     - 50 GB premium mobile hotspot data.
-     - Includes Disney+, Hulu, ESPN+, Apple Music.
-     - 600 GB Verizon Cloud storage.
-     - 50% off connected device plans.
+     - 60 GB premium mobile hotspot data.
+     - 1080p Full HD video streaming.
+     - International privileges: talk, text, and data in Mexico and Canada.
    - **Pros**:
-     - All premium features and perks included.
-     - Highest data allowances.
+     - Highest data and hotspot allowances.
+     - Premium features included.
    - **Cons**:
-     - Highest cost among unlimited plans.
+     - Most expensive among unlimited plans.
    - **Ideal For**: Power users wanting the most comprehensive plan.
-
-#### Shared Data Plans
-
-1. **Just Kids Plan**
-
-   - **Price**: Must be combined with at least one unlimited plan; add $50/month per line.
-   - **Features**:
-     - 5 GB of 4G LTE data.
-     - Parental controls via Smart Family Premium.
-     - Unlimited talk and text to 20 trusted contacts.
-   - **Pros**:
-     - Safety features for kids.
-     - Controlled internet access.
-   - **Cons**:
-     - Limited data.
-     - Requires at least one unlimited plan on the account.
-   - **Ideal For**: Families wanting to provide phones for children with parental controls.
 
 #### Prepaid Plans
 
-1. **Unlimited Prepaid**
+1. **5 GB Prepaid Plan**
 
-   - **Price**: Starting at $65/month; discounts available with Auto Pay and loyalty.
+   - **Price**: Starting at $25/month with Auto Pay and loyalty discounts.
    - **Features**:
-     - Unlimited data.
-     - Mobile hotspot included (600 Kbps speeds).
-     - Unlimited talk and text.
-   - **Pros**:
-     - No credit check or contract.
-     - Loyalty discounts reduce cost over time.
-   - **Cons**:
-     - Data may be deprioritized during congestion.
-     - Mobile hotspot speeds are limited.
-   - **Ideal For**: Customers seeking flexibility and no long-term commitment.
-
-2. **15 GB Prepaid Plan**
-
-   - **Price**: Starting at $45/month; discounts available.
-   - **Features**:
-     - 15 GB high-speed data.
+     - 5 GB high-speed data.
      - Mobile hotspot included.
      - Data carryover if unused.
    - **Pros**:
-     - Affordable with sufficient data for moderate users.
-     - Data rollover adds value.
+     - Affordable with sufficient data for light users.
+   - **Cons**:
+     - Limited data allowance.
+   - **Ideal For**: Users with minimal data needs.
+
+2. **15 GB Prepaid Plan**
+
+   - **Price**: Starting at $35/month with discounts.
+   - **Features**:
+     - 15 GB high-speed data.
+     - Mobile hotspot included.
+     - Data carryover.
+   - **Pros**:
+     - Good balance of data and cost.
    - **Cons**:
      - Charges for data overage after limit is reached.
    - **Ideal For**: Moderate data users on a budget.
 
-3. **5 GB Prepaid Plan**
+3. **Unlimited Prepaid**
 
-   - **Price**: Starting at $35/month.
+   - **Price**: Starting at $50/month with Auto Pay.
    - **Features**:
-     - 5 GB high-speed data.
-     - Mobile hotspot included.
-     - Data carryover.
+     - Unlimited data.
+     - Mobile hotspot included at 600 Kbps speeds.
+     - Unlimited talk and text.
    - **Pros**:
-     - Most affordable option.
-     - Suitable for light data users.
+     - No credit check or contract.
+     - Unlimited data usage.
    - **Cons**:
-     - Limited data allowance.
-   - **Ideal For**: Users with minimal data needs.
+     - Data may be deprioritized during congestion.
+     - Hotspot speeds are limited.
+   - **Ideal For**: Customers seeking flexibility and no long-term commitment.
 
 #### Business Plans
 
@@ -401,7 +278,7 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
      - Unlimited premium data.
      - 120 GB premium mobile hotspot data.
      - International services included.
-     - Microsoft 365 Business Basic included.
+     - Productivity tools like Microsoft 365 Business Basic.
    - **Pros**:
      - Highest data and hotspot allowances.
      - Productivity tools included.
@@ -411,10 +288,10 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
 
 #### Add-Ons and Features
 
-- **TravelPass**: Use your domestic plan's talk, text, and data allowances while traveling abroad for $5/day in Mexico and Canada or $10/day in over 185 countries.
-- **Safety Mode**: Avoid data overage charges by switching to reduced speeds after data allowance is used.
-- **Verizon Smart Family**: Parental controls and location tracking for family accounts.
+- **TravelPass**: Use your domestic plan's talk, text, and data allowances while traveling abroad for a daily fee.
+- **Verizon Cloud**: Secure online storage for photos, videos, and documents.
 - **Device Protection**: Insurance plans covering loss, theft, damage, and technical support.
+- **Disney Bundle**: Access to Disney+, Hulu, and ESPN+ with select plans.
 
 ### Home Internet Services
 
@@ -422,13 +299,13 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
 
 - **Technology**: 100% fiber-optic network delivering high-speed internet, TV, and phone services.
 - **Internet Plans**:
-  - **Fios 300 Mbps**: Ideal for basic browsing, streaming, and small households.
-  - **Fios 500 Mbps**: Suitable for multiple users, gaming, and HD streaming.
-  - **Fios Gigabit Connection (Up to 940/880 Mbps)**: Perfect for heavy internet use, 4K streaming, and smart homes.
+  - **Fios 300 Mbps**: Ideal for basic browsing and streaming.
+  - **Fios 500 Mbps**: Suitable for multiple users and devices.
+  - **Fios Gigabit Connection**: Speeds up to 940/880 Mbps for heavy internet use.
 - **TV Packages**:
-  - **Your Fios TV**: Customizable channel lineup with 125+ channels.
-  - **More Fios TV**: 300+ channels, including sports and premium networks.
-  - **The Most Fios TV**: 425+ channels with all available content.
+  - **Your Fios TV**: Customizable channel lineup.
+  - **More Fios TV**: Includes more channels and premium content.
+  - **The Most Fios TV**: Offers the most extensive channel selection.
 - **Features**:
   - **No Data Caps**: Unlimited internet usage.
   - **Custom TV**: Personalize your channel lineup.
@@ -445,10 +322,10 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
 
 - **Technology**: Uses Verizon's 5G Ultra Wideband network to deliver wireless home internet.
 - **Plans**:
-  - **5G Home**: Starting at $50/month with Auto Pay; $70 without.
-  - **5G Home Plus**: Starting at $70/month with Auto Pay; $90 without; includes additional perks.
+  - **5G Home**: Starting at $50/month with Auto Pay.
+  - **5G Home Plus**: Starting at $70/month with additional perks.
 - **Features**:
-  - **High Speeds**: Typical speeds of 300 Mbps, up to 1 Gbps in some areas.
+  - **High Speeds**: Typical speeds of 300 Mbps, up to 1 Gbps.
   - **No Data Caps**: Unlimited data usage.
   - **No Annual Contracts**: Flexibility to cancel anytime.
   - **Easy Setup**: Self-installation with the 5G Home Internet Gateway.
@@ -476,8 +353,6 @@ Verizon offers a comprehensive range of mobile plans to cater to various custome
 - **Ideal For**: Customers in rural or underserved areas needing reliable internet access.
 
 ### Devices and Accessories
-
-Verizon offers a wide array of devices, including the latest smartphones, tablets, wearables, smart home devices, and accessories from top manufacturers.
 
 #### Smartphones
 
@@ -716,7 +591,7 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
      - Business professionals, creatives, power users.
    - **Selling Points**:
      - **S Pen**: Productivity tool for note-taking and design.
-     - **Camera**: 108MP main sensor, 100x Space Zoom.
+     - **Camera**: 200MP main sensor, 100x Space Zoom.
      - **Display**: 6.8-inch Dynamic AMOLED 2X with 120Hz refresh rate.
      - **Performance**: Snapdragon 8 Gen 2 processor.
    - **Ideal For**:
@@ -895,7 +770,7 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 - **Review Details**:
   - Confirm the plan, device, and any add-ons.
-  - "Just to recap, you've chosen the 5G Play More plan with the Samsung Galaxy S23."
+  - "Just to recap, you've chosen the Unlimited Plus plan with the Samsung Galaxy S23."
 - **Set Expectations**:
   - Explain billing cycles, first bill, and any potential charges.
   - "Your first bill may be slightly higher due to activation fees."
@@ -918,68 +793,6 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 ---
 
-## Customer Service Excellence
-
-### Customer Service Principles
-
-1. **Professionalism**:
-   - Maintain a courteous and respectful demeanor.
-   - Dress appropriately and adhere to company guidelines.
-
-2. **Responsiveness**:
-   - Address customer inquiries promptly.
-   - Follow up on promises and commitments.
-
-3. **Empathy**:
-   - Understand and acknowledge customer feelings.
-   - "I can see how that situation would be frustrating."
-
-4. **Knowledgeability**:
-   - Be well-informed about products and services.
-   - Provide accurate and helpful information.
-
-5. **Personalization**:
-   - Tailor interactions to individual customer needs.
-   - Use the customer's name during the conversation.
-
-### Dealing with Difficult Customers
-
-1. **Stay Calm**:
-   - Keep a composed demeanor.
-   - Don't take comments personally.
-
-2. **Listen Actively**:
-   - Allow the customer to express concerns without interruption.
-   - Show that you are listening through nods and affirmations.
-
-3. **Acknowledge and Empathize**:
-   - "I understand how this situation could be upsetting."
-
-4. **Apologize if Necessary**:
-   - "I'm sorry for any inconvenience you've experienced."
-
-5. **Find Solutions**:
-   - Offer options to resolve the issue.
-   - "Let's see how we can fix this for you."
-
-6. **Know When to Escalate**:
-   - If unable to resolve, involve a supervisor or manager.
-
-### Retention Strategies
-
-- **Proactive Outreach**:
-  - Contact customers nearing contract end to discuss renewal options.
-- **Offer Incentives**:
-  - Provide special offers or discounts for loyal customers.
-- **Personal Touch**:
-  - Send personalized communications on birthdays or anniversaries.
-- **Solicit Feedback**:
-  - Encourage customers to provide feedback and act on it.
-- **Value Addition**:
-  - Inform customers about new features or services that may benefit them.
-
----
-
 ## Comparing Verizon to Competitors
 
 ### Verizon vs. AT&T
@@ -988,10 +801,10 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 - **Network Reliability**:
   - Consistently higher rankings in network performance and reliability.
-- **5G Deployment**:
-  - More extensive 5G Ultra Wideband coverage in urban areas.
 - **Customer Satisfaction**:
   - Better customer service ratings.
+- **5G Ultra Wideband**:
+  - Faster 5G speeds in areas with Ultra Wideband coverage.
 
 **AT&T Strengths**
 
@@ -1017,12 +830,10 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 - **Pricing**:
   - Generally lower-cost plans and aggressive promotions.
-- **Unlimited Data**:
-  - Less throttling on unlimited plans; higher deprioritization thresholds.
+- **5G Coverage**:
+  - More extensive 5G network coverage nationwide.
 - **Perks**:
   - Netflix included with certain family plans.
-- **International Roaming**:
-  - Simple Global feature includes data and texting in over 210 countries.
 
 ### Verizon vs. Other Carriers
 
@@ -1061,6 +872,49 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
   - Some competitors provide better options for frequent international travelers.
 - **Data Policies**:
   - Higher data thresholds before throttling or deprioritization.
+
+---
+
+## Verizon Coverage Overview
+
+### Does Verizon Have Good Coverage?
+
+Verizon is known for having one of the most extensive and reliable networks in the United States. It covers over 99% of the U.S. population with its 4G LTE network and is rapidly expanding its 5G coverage.
+
+### Verizon's Networks
+
+1. **Verizon LTE**
+
+   - **Coverage**: Approximately 67.4% of the U.S. land area.
+   - **Population Coverage**: Over 327 million people (98%).
+   - **Performance**: Reliable data speeds suitable for browsing, streaming, and general use.
+   - **Ideal For**: Customers needing dependable coverage across urban and rural areas.
+
+2. **Verizon 5G Nationwide**
+
+   - **Coverage**: Uses low-band 5G frequencies to cover larger areas.
+   - **Performance**: Similar to LTE but with improved capacity.
+   - **Ideal For**: Users in areas where 5G Ultra Wideband is not yet available.
+
+3. **Verizon 5G Ultra Wideband**
+
+   - **Coverage**: Approximately 14.5% of the U.S. land area but reaching over 222 million people.
+   - **Performance**: Offers ultra-fast speeds suitable for streaming 4K videos, gaming, and high-bandwidth applications.
+   - **Ideal For**: Customers in urban areas wanting the fastest possible mobile data speeds.
+
+### How to Check Verizon Coverage
+
+- **Interactive Maps**: Use Verizon's online coverage maps to check service in specific areas.
+- **Coverage Map App**: Download apps that compare cellular coverage between carriers.
+- **Store Assistance**: Visit a Verizon store for personalized coverage checks.
+
+### Verizon Coverage by State
+
+Verizon's coverage varies by state, with some states having nearly complete coverage and others having more limited service. Generally, urban and suburban areas have excellent coverage, while rural areas may have less consistent service.
+
+### Data Speeds by State
+
+Verizon's data speeds also vary by location, with median download speeds ranging from around 11 Mbps to over 135 Mbps depending on the state and network (LTE or 5G).
 
 ---
 
@@ -1128,105 +982,6 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 ---
 
-## Additional Resources for Sales Associates
-
-### Training and Development
-
-- **Verizon Learning Portal**:
-  - Access online courses, webinars, and certifications.
-- **Product Workshops**:
-  - Hands-on sessions for new devices and services.
-- **Sales Coaching**:
-  - One-on-one coaching sessions with sales managers.
-
-### Tools and Applications
-
-- **My Verizon App**:
-  - Familiarize yourself to assist customers in managing their accounts.
-- **Verizon Sales Portal**:
-  - Access customer information, inventory, and sales tools.
-- **Coverage Maps**:
-  - Use interactive maps to check network coverage for customers.
-- **Device Compatibility Checker**:
-  - Verify if a customer's device is compatible with Verizon's network.
-
-### Policies and Procedures
-
-- **Code of Conduct**:
-  - Adhere to Verizon's ethical guidelines and standards.
-- **Privacy Policies**:
-  - Understand customer data protection and privacy laws.
-- **Return and Exchange Policies**:
-  - Know the procedures for handling returns and exchanges.
-- **Health and Safety Guidelines**:
-  - Follow protocols for a safe working environment.
-
----
-
-## Tips for Success in Your Role
-
-1. **Continuous Learning**
-
-   - Stay updated on new products, services, and industry trends.
-   - Dedicate time each week to learning and development.
-
-2. **Customer-Centric Approach**
-
-   - Prioritize the customer's needs and provide personalized solutions.
-   - Exceed customer expectations to build loyalty.
-
-3. **Effective Communication**
-
-   - Use clear, concise language and avoid technical jargon.
-   - Tailor your communication style to the customer's preferences.
-
-4. **Time Management**
-
-   - Balance time between customers to ensure efficient service.
-   - Use slow periods for training and administrative tasks.
-
-5. **Team Collaboration**
-
-   - Share knowledge and strategies with colleagues.
-   - Support team goals and contribute to a positive work environment.
-
-6. **Goal Setting**
-
-   - Set personal sales targets and develop plans to achieve them.
-   - Track your progress and adjust strategies as needed.
-
-7. **Professionalism**
-
-   - Maintain a neat appearance and adhere to the dress code.
-   - Be punctual and dependable.
-
-8. **Ethical Conduct**
-
-   - Be honest and transparent in all dealings.
-   - Uphold Verizon's values and code of conduct.
-
-9. **Feedback Utilization**
-
-   - Seek feedback from supervisors and customers to improve.
-   - View constructive criticism as an opportunity for growth.
-
-10. **Resource Utilization**
-
-    - Use available tools and resources to enhance customer experience.
-    - Familiarize yourself with internal systems and applications.
-
-11. **Adaptability**
-
-    - Be flexible and adapt to changing situations.
-    - Embrace new technologies and sales techniques.
-
-12. **Positive Attitude**
-
-    - Approach challenges with optimism.
-    - Celebrate successes and learn from setbacks.
-
----
-
 ## Appendix
 
 ### Glossary of Terms
@@ -1244,24 +999,24 @@ Verizon offers a wide array of devices, including the latest smartphones, tablet
 
 ### Contact Information
 
-- **Internal Support**:
-  - **Sales Support Line**: [Insert Number]
-  - **Technical Support**: [Insert Number]
-- **IT Help Desk**:
-  - **Email**: [Insert Email]
-  - **Phone**: [Insert Number]
-- **Human Resources**:
-  - **Contact**: [Insert HR Contact]
-  - **Employee Portal**: [Insert URL]
-- **Training Department**:
-  - **Coordinator**: [Insert Name]
-  - **Email**: [Insert Email]
-- **Emergency Procedures**:
-  - **Security**: [Insert Number]
-  - **First Aid**: [Insert Location of First Aid Kit]
-- **Store Management**:
-  - **Manager**: [Insert Name]
-  - **Assistant Manager**: [Insert Name]
-  - **Contact Numbers**: [Insert Numbers]
+- **Customer Support**:
+  - **Phone**: 1-800-922-0204
+  - **Hours**: Monday to Friday, 7 AM to 11 PM ET; Saturday and Sunday, 8 AM to 9 PM ET
+- **Technical Support**:
+  - **Phone**: 1-800-837-4966
+  - **Available 24/7**
+- **Online Resources**:
+  - **Website**: [www.verizon.com](https://www.verizon.com)
+  - **Support Page**: [www.verizon.com/support](https://www.verizon.com/support)
+- **My Verizon App**:
+  - **Features**: Manage your account, pay bills, check data usage, and get support.
+- **Store Locator**:
+  - **Find a Store**: [www.verizon.com/stores](https://www.verizon.com/stores)
+
+---
+
+This comprehensive cheat sheet is designed to empower you with extensive knowledge needed to excel as a Verizon Retail Sales Associate. By understanding Verizon's products and services in detail, mastering sales techniques, and providing exceptional customer service, you will be well-equipped to meet and exceed your sales targets while delivering outstanding experiences for your customers.
+
+Remember, your role is pivotal in representing Verizon's brand and values. Embrace continuous learning, stay customer-focused, and strive for excellence in every interaction.
 
 ---
