@@ -8,7 +8,7 @@ tags: [verizon]
 ## Introduction
 
 Welcome to the Verizon Retail Sales Associate Cheat Sheet. This guide is designed to provide you with in-depth knowledge of Verizon's products, services, sales strategies, and competitive landscape. By mastering this information, you'll be equipped to confidently address customer inquiries, compare Verizon's offerings with competitors, and excel in your role.
-
+<!--truncate-->
 ---
 
 ## Company Overview
