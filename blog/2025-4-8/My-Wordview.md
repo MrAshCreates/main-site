@@ -14,6 +14,7 @@ I’m not trying to win a debate or change your mind.
 I just want you to understand how I think and live.
 
 ---
+<!--truncate-->
 
 ## I am an Agnostic Atheist
 
