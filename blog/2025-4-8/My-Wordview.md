@@ -1,3 +1,10 @@
+---
+slug: My-Wordview
+title: 'My Worldview and personal Philosophy'
+authors: [asher]
+tags: [religion, philosophy, getting-real, life-update]
+---
+
 # Where I Stand: A Clear Look at My Worldview
 
 This post is for anyone curious about how I see the world.  
