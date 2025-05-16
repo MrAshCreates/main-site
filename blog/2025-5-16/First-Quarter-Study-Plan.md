@@ -8,7 +8,7 @@ tags: [getting-real, life-update, college]
 # Neumont College – First Quarter Study Plan & Course Guide (2024–2025)
 
 ---
-
+<!--truncate-->
 ## 🎓 Course List and Descriptions
 
 ### **AIE101 – Foundations of Artificial Intelligence**
