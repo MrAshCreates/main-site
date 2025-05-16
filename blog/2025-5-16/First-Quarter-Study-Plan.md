@@ -167,5 +167,3 @@ Focuses on helping students thrive academically and personally. Includes goal-se
 | After 2:00 AM     | *Sleep*                                   | *Rest*                  |
 
 ---
-
-Let me know if you'd like this as a downloadable `.md` file or uploaded to GitHub or Notion!
